@@ -1,0 +1,15 @@
+c:\learning-journal\FirstSteps\bin\Debug\net10.0\FirstSteps.exe
+c:\learning-journal\FirstSteps\bin\Debug\net10.0\FirstSteps.deps.json
+c:\learning-journal\FirstSteps\bin\Debug\net10.0\FirstSteps.runtimeconfig.json
+c:\learning-journal\FirstSteps\bin\Debug\net10.0\FirstSteps.dll
+c:\learning-journal\FirstSteps\bin\Debug\net10.0\FirstSteps.pdb
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\FirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\FirstSteps.AssemblyInfoInputs.cache
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\FirstSteps.AssemblyInfo.cs
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\FirstSteps.csproj.CoreCompileInputs.cache
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\FirstSteps.sourcelink.json
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\FirstSteps.dll
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\refint\FirstSteps.dll
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\FirstSteps.pdb
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\FirstSteps.genruntimeconfig.cache
+c:\learning-journal\FirstSteps\obj\Debug\net10.0\ref\FirstSteps.dll
